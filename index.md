@@ -12,9 +12,9 @@
 - 四足机器人、轮式机器人、无人机、水下机器人等移动机器人的建模、控制与规划
 
 ## 教育与工作经历
-- 2017.04–2025.09 博士研究生, [上海交通大学](https://www.sjtu.edu.cn/)，[自动化系、医疗机器人研究院](http://www.seiee.sjtu.edu.cn/)，导师: [陈卫东教授](http://robotics.sjtu.edu.cn/)
-- 2014.09–2016.07 助理实验师, [南开大学](http://www.nankai.edu.cn/)，[人工智能学院](https://ai.nankai.edu.cn/)，团队: [段峰教授](http://www.isilab.nankai.edu.cn/)
-- 2011.09–2014.09 硕士研究生, [山东大学](http://www.sdu.edu.cn/)，[控制科学与工程学院](http://control.sdu.edu.cn/)，导师: [李贻斌教授](http://www.sucro.org/)
+- 2017.04–2025.09 博士研究生, [上海交通大学](https://www.sjtu.edu.cn/)，[自动化系](http://www.seiee.sjtu.edu.cn/)
+- 2014.09–2016.07 助理实验师, [南开大学](http://www.nankai.edu.cn/)，[人工智能学院](https://ai.nankai.edu.cn/)
+- 2011.09–2014.09 硕士研究生, [山东大学](http://www.sdu.edu.cn/)，[控制科学与工程学院](http://control.sdu.edu.cn/)
 - 2007.09–2011.06 学士学位, [山东大学](http://www.sdu.edu.cn/), [控制科学与工程学院](http://control.sdu.edu.cn/)
 
 ## 论文发表

@@ -1,7 +1,7 @@
 # 欢迎来到王汉符的主页: 迈向机器人社会!
 
 ## 王汉符，博士
-- Email: [hanfucius@qq.com](mailto:wanghanfu@fmiri.ac.cn)
+- Email: [wanghanfu@fmiri.ac.cn](mailto:wanghanfu@fmiri.ac.cn)
 - ORCID: [https://orcid.org/0000-0001-7860-9666](https://orcid.org/0000-0001-7860-9666)
 - Researchgate: [https://www.researchgate.net/profile/Hanfu-Wang-2](https://www.researchgate.net/profile/Hanfu-Wang-2)
 - Github: [https://github.com/WangHanfu](https://github.com/whf1989)

@@ -4,7 +4,7 @@
 - Email: [wanghanfu@fmiri.ac.cn](mailto:wanghanfu@fmiri.ac.cn)
 - ORCID: [https://orcid.org/0000-0001-7860-9666](https://orcid.org/0000-0001-7860-9666)
 - Researchgate: [https://www.researchgate.net/profile/Hanfu-Wang-2](https://www.researchgate.net/profile/Hanfu-Wang-2)
-- Github: [https://github.com/WangHanfu](https://github.com/whf1989)
+- Github: [https://github.com/whf1989](https://github.com/whf1989)
 
 ## 研究领域
 - 群体智能，多机器人和多智能体系统，深度强化学习、任务分配与调度、运动规划、多智能体寻路、覆盖路径规划、编队控制

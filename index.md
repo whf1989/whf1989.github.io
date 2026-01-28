@@ -1,7 +1,5 @@
 # 欢迎来到王汉符的主页: 迈向机器人社会!
 
-![王汉符](whf.jpg)
-
 ## 王汉符，博士
 - Email: [hanfucius@qq.com](mailto:hanfucius@sjtu.edu.cn)
 - ORCID: [https://orcid.org/0000-0001-7860-9666](https://orcid.org/0000-0001-7860-9666)

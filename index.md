@@ -1,14 +1,14 @@
 # 欢迎来到王汉符的主页: 迈向机器人社会!
 
 ## 王汉符，博士
-- Email: [hanfucius@qq.com](mailto:hanfucius@sjtu.edu.cn)
+- Email: [hanfucius@qq.com](mailto:wanghanfu@fmiri.ac.cn)
 - ORCID: [https://orcid.org/0000-0001-7860-9666](https://orcid.org/0000-0001-7860-9666)
 - Researchgate: [https://www.researchgate.net/profile/Hanfu-Wang-2](https://www.researchgate.net/profile/Hanfu-Wang-2)
-- Github: [https://github.com/WangHanfu](https://github.com/WangHanfu)
+- Github: [https://github.com/WangHanfu](https://github.com/whf1989)
 
 ## 研究领域
 - 群体智能，多机器人和多智能体系统，深度强化学习、任务分配与调度、运动规划、多智能体寻路、覆盖路径规划、编队控制
-- 异构多机器人系统在生产制造、物流仓储、农业渔业等场景的应用与系统集成
+- 异构多机器人系统在生产制造、物流仓储、渔业等场景的应用
 - 四足机器人、轮式机器人、无人机、水下机器人等移动机器人的建模、控制与规划
 
 ## 教育与工作经历

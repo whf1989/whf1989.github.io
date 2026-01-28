@@ -1,15 +1,18 @@
 # 欢迎来到王汉符的主页: 迈向机器人社会!
 
-## 王汉符，博士
+## 王汉符，Ph.D.
 - Email: [wanghanfu@fmiri.ac.cn](mailto:wanghanfu@fmiri.ac.cn)
 - ORCID: [https://orcid.org/0000-0001-7860-9666](https://orcid.org/0000-0001-7860-9666)
 - Researchgate: [https://www.researchgate.net/profile/Hanfu-Wang-2](https://www.researchgate.net/profile/Hanfu-Wang-2)
 - Github: [https://github.com/whf1989](https://github.com/whf1989)
 
 ## 研究领域
-- 群体智能，多机器人和多智能体系统，深度强化学习、任务分配与调度、运动规划、多智能体寻路、覆盖路径规划、编队控制
-- 异构多机器人系统在生产制造、物流仓储、渔业等场景的应用
-- 四足机器人、轮式机器人、无人机、水下机器人等移动机器人的建模、控制与规划
+- 足式、轮式、履带式等地面移动机器人，AGV，AMR，UGV
+- 空中机器人，UAV
+- 水面、水下移动机器人，ROV，AUV，USV
+- 多智能体多机器人系统，群体智能，深度强化学习、任务分配与调度、运动规划、多智能体寻路、覆盖路径规划、编队控制等
+- 异构多机器人系统在生产制造、物流仓储、渔业等应用场景的应用与系统集成
+
 
 ## 教育与工作经历
 - 2017.04–2025.09 博士研究生, [上海交通大学](https://www.sjtu.edu.cn/)，[自动化系](http://www.seiee.sjtu.edu.cn/)
@@ -22,7 +25,7 @@
 1. **Hanfu Wang**, Weibin Ye, Jingchuan Wanag, and Weidong Chen, “Breaking the Hierarchy: Taxonomies and Survey on Multi-robot Integrated Task and Motion Planning”, *Preprint.* [doi: 10.36227/techrxiv.173933261.11143776/v1](https://doi.org/10.36227/techrxiv.173933261.11143776/v1)
 
 ### 期刊论文
-1. Weibin Ye, **Hanfu Wang**, and Weidong Chen, “Path Coordination for Robust, Fast, and Scalable Multi-Agent Path Finding Under Unforeseen Delays,” *IEEE Transactions on Automation Science and Engineering (T-ASE，JCR Q1, IF=6.4)*, vol. 22, no. 1, 2025. [doi: 10.1109/TASE.2025.3615989](https://doi.org/10.1109/TASE.2025.3615989)
+1. Weibin Ye, **Hanfu Wang**, and Weidong Chen, “Path Coordination for Robust, Fast, and Scalable Multi-Agent Path Finding Under Unforeseen Delays,” *IEEE Transactions on Automation Science and Engineering (T-ASE，JCR Q1, IF=6.4)*, vol. 22, no. 1, 2025. [doi: 10.1109/TASE.2025.3615989](https://doi.org/10.1109/TASE.2025.3615989)[中文概述](https://robotics.sjtu.edu.cn/xyxw/1205.html)
 2. **Hanfu Wang**, and Weidong Chen, “Task scheduling for heterogeneous agents pickup and delivery using recurrent open shop scheduling models,” *Robotics and Autonomous Systems (RAS，JCR Q1, IF=5.2)*, vol. 172, no. 1, 2024. [doi: 10.1016/j.robot.2023.104604](https://doi.org/10.1016/j.robot.2023.104604)
 3. **Hanfu Wang**, and Weidong Chen, “Multi-Robot Path Planning with Due Times,” *IEEE Robotics and Automation Letters (RA-L，JCR Q1, IF=5.3)*, vol. 7, no. 2, pp. 4829-4836, April 2022. [doi: 10.1109/LRA.2022.3152701](https://doi.org/10.1109/LRA.2022.3152701) [source codes](https://github.com/WangHanfu/Multi-Robot-Path-Planning-with-Due-Times) [中文概述](https://robotics.sjtu.edu.cn/xyxw/1110.html)
 4. **Hanfu Wang**, and Weidong Chen, “Task scheduling for transport and pick robots in logistics: a comparative study on constructive heuristics,” *Autonomous Intelligent Systems (AIS, EI, 中国自动化学会B类期刊)*, vol. 1, no. 1, 2021. [doi: 10.1007/s43684-021-00017-9](https://doi.org/10.1007/s43684-021-00017-9)

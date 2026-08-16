@@ -38,7 +38,7 @@
 4. Yuan Lu, Yin Hu, Rensong Liu, **Hanfu Wang**, Hajime Asama, Feng Duan, “The design of simulation vehicle system controlled by multichannel EEG based on imaginary movements,” in *2016 35th Chinese Control Conference (CCC)*, July 2016. [doi:10.1109/ChiCC.2016.7554127](https://ieeexplore.ieee.org/document/7554127)
 
 ## 学术与活动
-- *IEEE Transactions on Automation Science and Engineering*, *IEEE Robotics and Automation Letters*, *Robotics and Autonomous Systems* 等机器人方向高质量期刊审稿人
+- *IEEE Transactions on Automation Science and Engineering*, *IEEE Robotics and Automation Letters*, *Robotics and Autonomous Systems*, *Swarm and Evolutionary Computation*等机器人、人工智能方向TOP期刊审稿人
 - 《智能机器人技术辞典》和《智能机器人简明技术词典》编委会成员
 - 2023-2024年，参与智能制造异构多机器人物流系统路径规划算法项目（华为校企合作）
 - 2018-2023年，参与多模态智能移动助行器研发项目（国家重点研发计划）
